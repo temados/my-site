@@ -51,7 +51,7 @@ body {
 }
 
 .hero-image .container {
-  max-width: 1408px;
+  max-width: 1000px;
   text-align: center;
 }
 
@@ -157,6 +157,9 @@ body {
 .projects p {
   margin: 0 0 24px;
 }
+ .center {
+  text-align: center;
+ }
 
 .button {
   padding: 6px 20px;
